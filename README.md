@@ -1,7 +1,7 @@
 # Oto (v3)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/ebitengine/oto/v3.svg)](https://pkg.go.dev/github.com/ebitengine/oto/v3)
-[![Build Status](https://github.com/ebitengine/oto/actions/workflows/test.yml/badge.svg)](https://github.com/ebitengine/oto/actions?query=workflow%3Atest)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ibiscum/oto/v3.svg)](https://pkg.go.dev/github.com/ibiscum/oto/v3)
+[![Build Status](https://github.com/ibiscum/oto/actions/workflows/test.yml/badge.svg)](https://github.com/ibiscum/oto/actions?query=workflow%3Atest)
 
 A low-level library to play sound.
 
@@ -93,7 +93,7 @@ import (
     "time"
     "os"
 
-    "github.com/ebitengine/oto/v3"
+    "github.com/ibiscum/oto/v3"
     "github.com/hajimehoshi/go-mp3"
 )
 

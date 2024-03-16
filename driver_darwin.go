@@ -22,7 +22,7 @@ import (
 
 	"github.com/ebitengine/purego/objc"
 
-	"github.com/ebitengine/oto/v3/internal/mux"
+	"github.com/ibiscum/oto/v3/internal/mux"
 )
 
 const (
